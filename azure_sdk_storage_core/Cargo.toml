@@ -27,7 +27,7 @@ http-body               = "0.2.0-alpha.3"
 futures-core-preview    = "0.3.0-alpha.19"
 futures-channel-preview = "0.3.0-alpha.19"
 futures-util-preview    = "0.3.0-alpha.19"
-hyper                   = { version        = "0.13.0-alpha.4" , features  = ["unstable-stream"] }
+hyper                   = { version        = "0.13.1" , features  = ["stream"] }
 log                     = "0.4"
 mime                    = "0.3"
 quick-error             = "1.2"
